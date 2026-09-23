@@ -54,3 +54,4 @@ node_modules/
 courses/*/data/embeddings.ndjson
 courses/*/data/.embeddings-manifest.json
 .cache/
+assets/
